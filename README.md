@@ -2,6 +2,6 @@
 
 # Camp Mackall
 
-![alt text](https://imgur.com/viZFr6j "CQB")
-![alt text](https://imgur.com/uP8jiT4 "Cinema")
-![alt text](https://imgur.com/ueKwEjF "Training")
+![alt text](https://imgur.com/viZFr6j.png "CQB")
+![alt text](https://imgur.com/uP8jiT4.png "Cinema")
+![alt text](https://imgur.com/ueKwEjF.png "Training")
