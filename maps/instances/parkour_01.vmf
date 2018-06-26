@@ -1,0 +1,1898 @@
+versioninfo
+{
+	"editorversion" "400"
+	"editorbuild" "7690"
+	"mapversion" "6"
+	"formatversion" "100"
+	"prefab" "0"
+}
+visgroups
+{
+}
+viewsettings
+{
+	"bSnapToGrid" "1"
+	"bShowGrid" "1"
+	"bShowLogicalGrid" "0"
+	"nGridSpacing" "16"
+	"bShow3DGrid" "0"
+}
+world
+{
+	"id" "1"
+	"mapversion" "6"
+	"classname" "worldspawn"
+	"detailmaterial" "detail/detailsprites"
+	"detailvbsp" "detail.vbsp"
+	"maxpropscreenwidth" "-1"
+	"skyname" "ramadisky"
+	"timeofday" "5"
+}
+entity
+{
+	"id" "46"
+	"classname" "func_detail"
+	solid
+	{
+		"id" "47"
+		side
+		{
+			"id" "164"
+			"plane" "(40 -40 -16) (46 -38 -16) (48 -32 -16)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 0 32] 0.25"
+			"vaxis" "[1 0 0 -63.998] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "163"
+			"plane" "(34 -26 32) (40 -24 32) (46 -26 32)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 0 32] 0.25"
+			"vaxis" "[1 0 0 -63.998] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "162"
+			"plane" "(34 -26 -16) (34 -26 32) (32 -32 32)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[-0.316228 -0.948682 0 -402.856] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "161"
+			"plane" "(40 -24 -16) (40 -24 32) (34 -26 32)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[-0.948682 -0.316227 0 -251.066] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "160"
+			"plane" "(46 -26 -16) (46 -26 32) (40 -24 32)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[-0.948682 0.316228 0 -190.35] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "159"
+			"plane" "(48 -32 -16) (48 -32 32) (46 -26 32)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[-0.316227 0.948682 0 -38.56] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "158"
+			"plane" "(46 -38 -16) (46 -38 32) (48 -32 32)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[0.316227 0.948682 0 -159.992] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "157"
+			"plane" "(40 -40 -16) (40 -40 32) (46 -38 32)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[0.948682 0.316227 0 -372.497] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "156"
+			"plane" "(34 -38 -16) (34 -38 32) (40 -40 32)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[0.948682 -0.316227 0 -473.691] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "155"
+			"plane" "(32 -32 -16) (32 -32 32) (34 -38 32)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[0.316227 -0.948682 0 -483.811] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 180 0"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "48"
+		side
+		{
+			"id" "174"
+			"plane" "(40 24 -16) (46 26 -16) (48 32 -16)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 0 32] 0.25"
+			"vaxis" "[1 0 0 -63.998] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "173"
+			"plane" "(34 38 32) (40 40 32) (46 38 32)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 0 32] 0.25"
+			"vaxis" "[1 0 0 -63.998] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "172"
+			"plane" "(34 38 -16) (34 38 32) (32 32 32)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[-0.316228 -0.948683 0 -200.476] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "171"
+			"plane" "(40 40 -16) (40 40 32) (34 38 32)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[-0.948683 -0.316228 0 -210.595] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "170"
+			"plane" "(46 38 -16) (46 38 32) (40 40 32)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[-0.948683 0.316227 0 -311.788] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "169"
+			"plane" "(48 32 -16) (48 32 32) (46 38 32)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[-0.316227 0.948683 0 -524.293] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "168"
+			"plane" "(46 26 -16) (46 26 32) (48 32 32)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[0.316228 0.948683 0 -645.724] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "167"
+			"plane" "(40 24 -16) (40 24 32) (46 26 32)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[0.948683 0.316228 0 -696.319] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "166"
+			"plane" "(34 26 -16) (34 26 32) (40 24 32)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[0.948682 -0.316228 0 -635.603] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "165"
+			"plane" "(32 32 -16) (32 32 32) (34 26 32)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[0.316227 -0.948682 0 -483.812] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 180 0"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "49"
+		side
+		{
+			"id" "184"
+			"plane" "(40 -48 48) (46 -48 46) (48 -48 40)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_E"
+			"uaxis" "[0 0 -1 25] 0.25"
+			"vaxis" "[1 0 0 -64] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "183"
+			"plane" "(34 48 34) (40 48 32) (46 48 34)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_E"
+			"uaxis" "[0 0 -1 25] 0.25"
+			"vaxis" "[1 0 0 -64] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "182"
+			"plane" "(34 -48 34) (34 48 34) (32 48 40)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[0.316228 0 -0.948683 -357.803] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "181"
+			"plane" "(40 -48 32) (40 48 32) (34 48 34)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[0.948683 0 -0.316227 -529.83] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "180"
+			"plane" "(46 -48 34) (46 48 34) (40 48 32)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[0.948683 0 0.316227 -813.167] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "179"
+			"plane" "(48 -48 40) (48 48 40) (46 48 34)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[0.316228 0 0.948683 -782.811] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "178"
+			"plane" "(46 -48 46) (46 48 46) (48 48 40)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[-0.316228 0 0.948683 -661.38] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "177"
+			"plane" "(40 -48 48) (40 48 48) (46 48 46)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[-0.948683 0 0.316228 -428.637] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "176"
+			"plane" "(34 -48 46) (34 48 46) (40 48 48)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[-0.948683 0 -0.316227 -307.206] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "175"
+			"plane" "(32 -48 40) (32 48 40) (34 48 46)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[-0.316228 0 -0.948683 -276.849] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 180 0"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "50"
+		side
+		{
+			"id" "191"
+			"plane" "(46 26 32) (48 32 32) (46 38 32)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 0 32] 0.25"
+			"vaxis" "[1 0 0 -63.998] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "190"
+			"plane" "(46 38 32) (46 38 34) (40 40 32)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[-0.948683 0.316227 0 -311.788] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "189"
+			"plane" "(46 38 32) (48 32 32) (46 38 34)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[-0.316227 0.948683 0 -524.292] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "188"
+			"plane" "(46 26 32) (46 26 34) (48 32 32)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[0.316228 0.948683 0 -645.723] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "187"
+			"plane" "(46 26 32) (40 24 32) (46 26 34)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[0.948683 0.316228 0 -696.318] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "186"
+			"plane" "(48 32 32) (46 26 34) (46 38 34)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 0 32] 0.25"
+			"vaxis" "[1 0 0 -63.998] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "185"
+			"plane" "(40 40 32) (46 38 34) (46 26 34)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 0 32] 0.25"
+			"vaxis" "[1 0 0 -63.998] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 180 0"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "51"
+		side
+		{
+			"id" "195"
+			"plane" "(48 32 40) (46 38 34) (48 32 32)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[-0.316227 0.948683 0 -524.292] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "194"
+			"plane" "(48 32 40) (48 32 32) (46 26 34)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[0.316228 0.948683 0 -645.723] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "193"
+			"plane" "(46 38 34) (46 26 34) (48 32 32)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 0 32] 0.25"
+			"vaxis" "[1 0 0 -63.998] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "192"
+			"plane" "(48 32 40) (46 26 34) (46 38 34)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 0 32] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 180 0"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "52"
+		side
+		{
+			"id" "202"
+			"plane" "(34 38 32) (32 32 32) (34 26 32)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 -1 0 -32] 0.25"
+			"vaxis" "[-1 0 0 63.998] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "201"
+			"plane" "(34 26 32) (34 26 34) (40 24 32)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[0.948682 -0.316228 0 -635.602] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "200"
+			"plane" "(34 26 32) (32 32 32) (34 26 34)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[0.316227 -0.948682 0 -483.811] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "199"
+			"plane" "(34 38 32) (34 38 34) (32 32 32)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[-0.316228 -0.948683 0 -200.475] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "198"
+			"plane" "(34 38 32) (40 40 32) (34 38 34)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[-0.948683 -0.316227 0 -210.595] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "197"
+			"plane" "(32 32 32) (34 38 34) (34 26 34)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 -1 0 -32] 0.25"
+			"vaxis" "[-1 0 0 63.998] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "196"
+			"plane" "(40 24 32) (34 26 34) (34 38 34)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 -1 0 -32] 0.25"
+			"vaxis" "[-1 0 0 63.998] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 180 0"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "53"
+		side
+		{
+			"id" "206"
+			"plane" "(32 32 40) (34 26 34) (32 32 32)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[0.316227 -0.948682 0 -483.811] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "205"
+			"plane" "(32 32 40) (32 32 32) (34 38 34)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[-0.316228 -0.948683 0 -200.475] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "204"
+			"plane" "(34 26 34) (34 38 34) (32 32 32)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 -1 0 -32] 0.25"
+			"vaxis" "[-1 0 0 63.998] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "203"
+			"plane" "(32 32 40) (34 38 34) (34 26 34)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 -1 0 -32] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 180 0"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "54"
+		side
+		{
+			"id" "213"
+			"plane" "(34 -26 32) (32 -32 32) (34 -38 32)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 -1 0 -32] 0.25"
+			"vaxis" "[-1 0 0 63.998] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "212"
+			"plane" "(34 -38 32) (34 -38 34) (40 -40 32)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[0.948682 -0.316227 0 -473.69] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "211"
+			"plane" "(34 -38 32) (32 -32 32) (34 -38 34)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[0.316227 -0.948682 0 -483.811] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "210"
+			"plane" "(34 -26 32) (34 -26 34) (32 -32 32)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[-0.316228 -0.948682 0 -402.855] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "209"
+			"plane" "(34 -26 32) (40 -24 32) (34 -26 34)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[-0.948682 -0.316227 0 -251.065] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "208"
+			"plane" "(32 -32 32) (34 -26 34) (34 -38 34)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 -1 0 -32] 0.25"
+			"vaxis" "[-1 0 0 63.998] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "207"
+			"plane" "(40 -40 32) (34 -38 34) (34 -26 34)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 -1 0 -32] 0.25"
+			"vaxis" "[-1 0 0 63.998] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 180 0"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "55"
+		side
+		{
+			"id" "217"
+			"plane" "(32 -32 40) (34 -38 34) (32 -32 32)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[0.316227 -0.948682 0 -483.811] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "216"
+			"plane" "(32 -32 40) (32 -32 32) (34 -26 34)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[-0.316228 -0.948682 0 -402.855] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "215"
+			"plane" "(34 -38 34) (34 -26 34) (32 -32 32)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 -1 0 -32] 0.25"
+			"vaxis" "[-1 0 0 63.998] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "214"
+			"plane" "(32 -32 40) (34 -26 34) (34 -38 34)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 -1 0 -32] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 180 0"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "56"
+		side
+		{
+			"id" "224"
+			"plane" "(46 -38 32) (48 -32 32) (46 -26 32)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 0 32] 0.25"
+			"vaxis" "[1 0 0 -63.998] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "223"
+			"plane" "(46 -26 32) (46 -26 34) (40 -24 32)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[-0.948682 0.316228 0 -190.349] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "222"
+			"plane" "(46 -26 32) (48 -32 32) (46 -26 34)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[-0.316227 0.948682 0 -38.5598] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "221"
+			"plane" "(46 -38 32) (46 -38 34) (48 -32 32)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[0.316227 0.948682 0 -159.991] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "220"
+			"plane" "(46 -38 32) (40 -40 32) (46 -38 34)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[0.948682 0.316227 0 -372.496] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "219"
+			"plane" "(48 -32 32) (46 -38 34) (46 -26 34)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 0 32] 0.25"
+			"vaxis" "[1 0 0 -63.998] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "218"
+			"plane" "(40 -24 32) (46 -26 34) (46 -38 34)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 0 32] 0.25"
+			"vaxis" "[1 0 0 -63.998] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 180 0"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "57"
+		side
+		{
+			"id" "228"
+			"plane" "(48 -32 40) (46 -26 34) (48 -32 32)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[-0.316227 0.948682 0 -38.56] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "227"
+			"plane" "(48 -32 40) (48 -32 32) (46 -38 34)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[0.316227 0.948682 0 -159.991] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "226"
+			"plane" "(46 -26 34) (46 -38 34) (48 -32 32)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 0 32] 0.25"
+			"vaxis" "[1 0 0 -63.998] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "225"
+			"plane" "(48 -32 40) (46 -38 34) (46 -26 34)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 0 32] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 180 0"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "58"
+		side
+		{
+			"id" "238"
+			"plane" "(-62 -38 -16) (-56 -40 -16) (-50 -38 -16)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 0 32] 0.25"
+			"vaxis" "[1 0 0 0.00195313] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "237"
+			"plane" "(-64 -32 8) (-62 -26 8) (-56 -24 8)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 0 32] 0.25"
+			"vaxis" "[1 0 0 0.00195313] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "236"
+			"plane" "(-64 -32 -16) (-62 -26 -16) (-62 -26 8)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[-0.316228 -0.948683 0 -106.386] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "235"
+			"plane" "(-62 -26 -16) (-56 -24 -16) (-56 -24 8)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[-0.948683 -0.316228 0 3.62704] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "234"
+			"plane" "(-56 -24 -16) (-50 -26 -16) (-50 -26 8)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[-0.948683 0.316228 0 64.3429] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "233"
+			"plane" "(-50 -26 -16) (-48 -32 -16) (-48 -32 8)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[-0.316228 0.948683 0 256.61] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "232"
+			"plane" "(-48 -32 -16) (-50 -38 -16) (-50 -38 8)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[0.316228 0.948683 0 378.041] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "231"
+			"plane" "(-50 -38 -16) (-56 -40 -16) (-56 -40 8)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[0.948683 0.316228 0 408.4] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "230"
+			"plane" "(-56 -40 -16) (-62 -38 -16) (-62 -38 8)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[0.948683 -0.316228 0 307.207] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "229"
+			"plane" "(-62 -38 -16) (-64 -32 -16) (-64 -32 8)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[0 -1 0 -32] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 180 0"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "59"
+		side
+		{
+			"id" "248"
+			"plane" "(-62 26 -16) (-56 24 -16) (-50 26 -16)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 0 32] 0.25"
+			"vaxis" "[1 0 0 0.00195313] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "247"
+			"plane" "(-64 32 8) (-62 38 8) (-56 40 8)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 0 32] 0.25"
+			"vaxis" "[1 0 0 0.00195313] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "246"
+			"plane" "(-64 32 -16) (-62 38 -16) (-62 38 8)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[-0.316228 -0.948683 0 -119.523] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "245"
+			"plane" "(-62 38 -16) (-56 40 -16) (-56 40 8)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[-0.948683 -0.316228 0 -372.505] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "244"
+			"plane" "(-56 40 -16) (-50 38 -16) (-50 38 8)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[-0.948683 0.316228 0 -473.698] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "243"
+			"plane" "(-50 38 -16) (-48 32 -16) (-48 32 8)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[-0.316228 0.948683 0 -443.34] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "242"
+			"plane" "(-48 32 -16) (-50 26 -16) (-50 26 8)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[0.316228 0.948683 0 -321.908] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "241"
+			"plane" "(-50 26 -16) (-56 24 -16) (-56 24 8)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[0.948683 0.316227 0 -129.641] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "240"
+			"plane" "(-56 24 -16) (-62 26 -16) (-62 26 8)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[0.948683 -0.316228 0 -68.9252] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "239"
+			"plane" "(-62 26 -16) (-64 32 -16) (-64 32 8)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[0 -1 0 -32] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 180 0"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "60"
+		side
+		{
+			"id" "258"
+			"plane" "(-62 -48 22) (-56 -48 24) (-50 -48 22)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_E"
+			"uaxis" "[0 0 -1 25] 0.25"
+			"vaxis" "[1 0 0 64] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "257"
+			"plane" "(-64 48 16) (-62 48 10) (-56 48 8)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_E"
+			"uaxis" "[0 0 -1 25] 0.25"
+			"vaxis" "[1 0 0 64] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "256"
+			"plane" "(-64 -48 16) (-62 -48 10) (-62 48 10)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[0.316228 0 -0.948683 45.6702] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "255"
+			"plane" "(-62 -48 10) (-56 -48 8) (-56 48 8)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[0.948683 0 -0.316228 -23.8659] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "254"
+			"plane" "(-56 -48 8) (-50 -48 10) (-50 48 10)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[0.948683 0 0.316228 -44.1046] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "253"
+			"plane" "(-50 -48 10) (-48 -48 16) (-48 48 16)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[0.316228 0 0.948683 -195.894] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "252"
+			"plane" "(-48 -48 16) (-50 -48 22) (-50 48 22)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[-0.316228 0 0.948683 -317.326] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "251"
+			"plane" "(-50 -48 22) (-56 -48 24) (-56 48 24)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[-0.948683 0 0.316228 -388.161] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "250"
+			"plane" "(-56 -48 24) (-62 -48 22) (-62 48 22)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[-0.948683 0 -0.316228 -327.445] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "249"
+			"plane" "(-62 -48 22) (-64 -48 16) (-64 48 16)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[0 0 -1 -32] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 180 0"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "61"
+		side
+		{
+			"id" "265"
+			"plane" "(-56 24 8) (-50 26 8) (-48 32 8)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 0 32] 0.25"
+			"vaxis" "[1 0 0 0.00195313] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "264"
+			"plane" "(-56 40 8) (-50 38 8) (-50 38 10)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[-0.948683 0.316228 0 -473.698] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "263"
+			"plane" "(-50 38 10) (-50 38 8) (-48 32 8)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[-0.316228 0.948683 0 -443.339] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "262"
+			"plane" "(-48 32 8) (-50 26 8) (-50 26 10)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[0.316228 0.948683 0 -321.908] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "261"
+			"plane" "(-50 26 10) (-50 26 8) (-56 24 8)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[0.948683 0.316227 0 -129.641] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "260"
+			"plane" "(-50 38 10) (-48 32 8) (-50 26 10)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 0 32] 0.25"
+			"vaxis" "[1 0 0 0.00195313] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "259"
+			"plane" "(-56 24 8) (-56 40 8) (-50 38 10)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 0 32] 0.25"
+			"vaxis" "[1 0 0 0.00195313] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 180 0"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "62"
+		side
+		{
+			"id" "269"
+			"plane" "(-48 32 8) (-48 32 16) (-50 38 10)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[-0.316228 0.948683 0 -443.339] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "268"
+			"plane" "(-50 26 10) (-48 32 16) (-48 32 8)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[0.316228 0.948683 0 -321.908] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "267"
+			"plane" "(-48 32 8) (-50 38 10) (-50 26 10)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 0 32] 0.25"
+			"vaxis" "[1 0 0 0.00195313] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "266"
+			"plane" "(-50 38 10) (-48 32 16) (-50 26 10)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 0 32] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 180 0"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "63"
+		side
+		{
+			"id" "276"
+			"plane" "(-56 40 8) (-62 38 8) (-64 32 8)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 -1 0 -32] 0.25"
+			"vaxis" "[-1 0 0 -0.00195313] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "275"
+			"plane" "(-56 24 8) (-62 26 8) (-62 26 10)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[0.948683 -0.316228 0 -68.9251] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "274"
+			"plane" "(-62 26 10) (-62 26 8) (-64 32 8)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[0 -1 0 -32] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "273"
+			"plane" "(-64 32 8) (-62 38 8) (-62 38 10)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[-0.316228 -0.948683 0 -119.523] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "272"
+			"plane" "(-62 38 10) (-62 38 8) (-56 40 8)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[-0.948683 -0.316228 0 -372.505] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "271"
+			"plane" "(-62 26 10) (-64 32 8) (-62 38 10)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 -1 0 -32] 0.25"
+			"vaxis" "[-1 0 0 -0.00195313] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "270"
+			"plane" "(-56 40 8) (-56 24 8) (-62 26 10)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 -1 0 -32] 0.25"
+			"vaxis" "[-1 0 0 -0.00195313] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 180 0"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "64"
+		side
+		{
+			"id" "280"
+			"plane" "(-64 32 8) (-64 32 16) (-62 26 10)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[0 -1 0 -32] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "279"
+			"plane" "(-62 38 10) (-64 32 16) (-64 32 8)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[-0.316228 -0.948683 0 -119.523] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "278"
+			"plane" "(-64 32 8) (-62 26 10) (-62 38 10)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 -1 0 -32] 0.25"
+			"vaxis" "[-1 0 0 -0.00195313] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "277"
+			"plane" "(-62 26 10) (-64 32 16) (-62 38 10)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 -1 0 -32] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 180 0"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "65"
+		side
+		{
+			"id" "287"
+			"plane" "(-56 -24 8) (-62 -26 8) (-64 -32 8)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 -1 0 -32] 0.25"
+			"vaxis" "[-1 0 0 -0.00195313] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "286"
+			"plane" "(-56 -40 8) (-62 -38 8) (-62 -38 10)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[0.948683 -0.316228 0 307.207] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "285"
+			"plane" "(-62 -38 10) (-62 -38 8) (-64 -32 8)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[0 -1 0 -32] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "284"
+			"plane" "(-64 -32 8) (-62 -26 8) (-62 -26 10)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[-0.316228 -0.948683 0 -106.386] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "283"
+			"plane" "(-62 -26 10) (-62 -26 8) (-56 -24 8)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[-0.948683 -0.316228 0 3.62695] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "282"
+			"plane" "(-62 -38 10) (-64 -32 8) (-62 -26 10)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 -1 0 -32] 0.25"
+			"vaxis" "[-1 0 0 -0.00195313] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "281"
+			"plane" "(-56 -24 8) (-56 -40 8) (-62 -38 10)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 -1 0 -32] 0.25"
+			"vaxis" "[-1 0 0 -0.00195313] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 180 0"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "66"
+		side
+		{
+			"id" "291"
+			"plane" "(-64 -32 8) (-64 -32 16) (-62 -38 10)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[0 -1 0 -32] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "290"
+			"plane" "(-62 -26 10) (-64 -32 16) (-64 -32 8)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[-0.316228 -0.948683 0 -106.386] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "289"
+			"plane" "(-64 -32 8) (-62 -38 10) (-62 -26 10)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 -1 0 -32] 0.25"
+			"vaxis" "[-1 0 0 -0.00195313] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "288"
+			"plane" "(-62 -38 10) (-64 -32 16) (-62 -26 10)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 -1 0 -32] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 180 0"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "67"
+		side
+		{
+			"id" "298"
+			"plane" "(-56 -40 8) (-50 -38 8) (-48 -32 8)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 0 32] 0.25"
+			"vaxis" "[1 0 0 0.00195313] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "297"
+			"plane" "(-56 -24 8) (-50 -26 8) (-50 -26 10)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[-0.948683 0.316228 0 64.3428] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "296"
+			"plane" "(-50 -26 10) (-50 -26 8) (-48 -32 8)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[-0.316228 0.948683 0 256.609] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "295"
+			"plane" "(-48 -32 8) (-50 -38 8) (-50 -38 10)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[0.316228 0.948683 0 378.041] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "294"
+			"plane" "(-50 -38 10) (-50 -38 8) (-56 -40 8)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[0.948683 0.316228 0 408.399] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "293"
+			"plane" "(-50 -26 10) (-48 -32 8) (-50 -38 10)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 0 32] 0.25"
+			"vaxis" "[1 0 0 0.00195313] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "292"
+			"plane" "(-56 -40 8) (-56 -24 8) (-50 -26 10)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 0 32] 0.25"
+			"vaxis" "[1 0 0 0.00195313] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 180 0"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "68"
+		side
+		{
+			"id" "302"
+			"plane" "(-48 -32 8) (-48 -32 16) (-50 -26 10)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[-0.316228 0.948683 0 256.609] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "301"
+			"plane" "(-50 -38 10) (-48 -32 16) (-48 -32 8)"
+			"material" "WOOD/HR_W/INFERNO/HR_WOOD_PLANKS_A"
+			"uaxis" "[0.316228 0.948683 0 378.041] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "300"
+			"plane" "(-48 -32 8) (-50 -26 10) (-50 -38 10)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 0 32] 0.25"
+			"vaxis" "[1 0 0 0.00195313] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "299"
+			"plane" "(-50 -26 10) (-48 -32 16) (-50 -38 10)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 0 32] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 180 0"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	editor
+	{
+		"color" "0 180 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 13000]"
+	}
+}
+cameras
+{
+	"activecamera" "-1"
+}
+cordons
+{
+	"active" "0"
+}

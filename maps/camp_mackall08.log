@@ -1,0 +1,961 @@
+
+
+
+materialPath: C:\Games\steamapps\common\dayofinfamy\doi\materials
+Loading d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall08.vmf
+Map revision 277
+Patching WVT material: maps/camp_mackall08/dev/dev_blendmeasure_wvt_patch
+Patching WVT material: maps/camp_mackall08/maps/camp_mackall/blend_soil_grass01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 116 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall08.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (168873 bytes)
+Error! To use model "models/characters/american/player_american_01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/characters/american/player_american_01.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8.Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+.Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+.Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+9.Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+.Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+.Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+10
+Compacting texture/material tables...
+Reduced 1140 texinfos to 481
+Reduced 22 texdatas to 19 (604 bytes to 465)
+Writing d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall08.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall08.bsp
+reading d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall08.prt
+ 319 portalclusters
+ 705 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 456 visible clusters (0.00%)
+Total clusters visible: 96495
+Average clusters visible: 302
+Building PAS...
+Average clusters audible: 319
+visdatasize:28135  compressed from 25520
+writing d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall08.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[6 texlights parsed from 'lights.rad']
+
+Loading d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall08.bsp
+1810 faces
+2116190 square feet [304731360.00 square inches]
+308 Displacements
+1072490 Square Feet [154438640.00 Square Inches]
+1810 patches before subdivision
+22158 patches after subdivision
+23 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 805086, max 289
+transfer lists:   6.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(28894, 16736, 11278)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(1763, 757, 295)
+Build Patch/Sample Hash Table(s).....Done<0.0000 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+8 of 8 (100% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                404/8192         4848/98304    ( 4.9%) 
+brushsides            2688/65536       21504/524288   ( 4.1%) 
+planes                1888/65536       37760/1310720  ( 2.9%) 
+vertexes              3711/65536       44532/786432   ( 5.7%) 
+nodes                  962/65536       30784/2097152  ( 1.5%) 
+texinfos               481/12288       34632/884736   ( 3.9%) 
+texdata                 19/2048          608/65536    ( 0.9%) 
+dispinfos              308/0           54208/0        ( 0.0%) 
+disp_verts           24948/0          498960/0        ( 0.0%) 
+disp_tris            39424/0           78848/0        ( 0.0%) 
+disp_multiblend        972/0           77760/0        ( 0.0%) 
+disp_lmsamples      967436/0          967436/0        ( 0.0%) 
+faces                 1810/65536      101360/3670016  ( 2.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1259/65536       70504/3670016  ( 1.9%) 
+facebrushes             74/0             148/0        ( 0.0%) 
+facebrushlists        1810/0            7240/0        ( 0.0%) 
+leaves                 968/65536       30976/2097152  ( 1.5%) 
+leaffaces             1850/65536        3700/131072   ( 2.8%) 
+leafbrushes           1346/65536        2692/131072   ( 2.1%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            14337/512000      57348/2048000  ( 2.8%) 
+edges                10304/256000      41216/1024000  ( 4.0%) 
+LDR worldlights         23/8192         2300/819200   ( 0.3%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            210/32768        2100/327680   ( 0.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6483/65536       12966/131072   ( 9.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 4/1024         1408/360448   ( 0.4%) 
+LDR lightdata         [variable]     5696764/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       28135/16777216 ( 0.2%) 
+entdata               [variable]       45448/393216   (11.6%) 
+LDR ambient table      968/65536        3872/262144   ( 1.5%) 
+HDR ambient table      968/65536        3872/262144   ( 1.5%) 
+LDR leaf ambient      4360/65536      122080/1835008  ( 6.7%) 
+HDR leaf ambient       968/65536       27104/1835008  ( 1.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/40312    ( 0.0%) 
+pakfile               [variable]         900/0        ( 0.0%) 
+physics               [variable]      168873/4194304  ( 4.0%) 
+physics terrain       [variable]      142466/1048576  (13.6%) 
+
+Level flags = 4
+
+Total triangle count: 5681
+Writing d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall08.bsp
+1 minute, 4 seconds elapsed
+
+
+
+materialPath: C:\Games\steamapps\common\dayofinfamy\doi\materials
+Loading d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall08.vmf
+Map revision 278
+Patching WVT material: maps/camp_mackall08/dev/dev_blendmeasure_wvt_patch
+Patching WVT material: maps/camp_mackall08/maps/camp_mackall/blend_soil_grass01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 76 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall08.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (104919 bytes)
+Error! To use model "models/characters/american/player_american_01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/characters/american/player_american_01.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+.Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+.Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+.Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+9.Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+.Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+.Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+10
+Compacting texture/material tables...
+Reduced 975 texinfos to 429
+Reduced 28 texdatas to 25 (751 bytes to 612)
+Writing d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall08.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall08.bsp
+reading d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall08.prt
+ 316 portalclusters
+ 716 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 419 visible clusters (0.00%)
+Total clusters visible: 96511
+Average clusters visible: 305
+Building PAS...
+Average clusters audible: 316
+visdatasize:27858  compressed from 25280
+writing d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall08.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[6 texlights parsed from 'lights.rad']
+
+Loading d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall08.bsp
+1554 faces
+2106929 square feet [303397792.00 square inches]
+308 Displacements
+1072490 Square Feet [154438640.00 Square Inches]
+1554 patches before subdivision
+20148 patches after subdivision
+15 direct lights
+0...1...2...3...4...
+
+
+materialPath: C:\Games\steamapps\common\dayofinfamy\doi\materials
+Loading d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall08.vmf
+Map revision 279
+Patching WVT material: maps/camp_mackall08/dev/dev_blendmeasure_wvt_patch
+Patching WVT material: maps/camp_mackall08/maps/camp_mackall/blend_soil_grass01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 76 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall08.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (104919 bytes)
+Error! To use model "models/characters/american/player_american_01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/characters/american/player_american_01.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+.Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+.Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+.Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+9.Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+.Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+.Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+10
+Compacting texture/material tables...
+Reduced 975 texinfos to 429
+Reduced 28 texdatas to 25 (751 bytes to 612)
+Writing d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall08.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall08.bsp
+reading d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall08.prt
+ 316 portalclusters
+ 716 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 419 visible clusters (0.00%)
+Total clusters visible: 96511
+Average clusters visible: 305
+Building PAS...
+Average clusters audible: 316
+visdatasize:27858  compressed from 25280
+writing d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall08.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[6 texlights parsed from 'lights.rad']
+
+Loading d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall08.bsp
+
+
+
+materialPath: C:\Games\steamapps\common\dayofinfamy\doi\materials
+Loading d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall08.vmf
+Map revision 280
+Patching WVT material: maps/camp_mackall08/dev/dev_blendmeasure_wvt_patch
+Patching WVT material: maps/camp_mackall08/maps/camp_mackall/blend_soil_grass01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 72 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall08.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (133390 bytes)
+Error! To use model "models/characters/american/player_american_01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/characters/american/player_american_01.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+.Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+.Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+.Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+9.Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+.Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+.Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+10
+Compacting texture/material tables...
+Reduced 1045 texinfos to 432
+Reduced 31 texdatas to 28 (799 bytes to 660)
+Writing d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall08.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall08.bsp
+reading d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall08.prt
+ 308 portalclusters
+ 683 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 267 visible clusters (0.00%)
+Total clusters visible: 91009
+Average clusters visible: 295
+Building PAS...
+Average clusters audible: 308
+visdatasize:26577  compressed from 24640
+writing d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall08.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[6 texlights parsed from 'lights.rad']
+
+Loading d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall08.bsp
+1550 faces
+2106928 square feet [303397664.00 square inches]
+308 Displacements
+1072490 Square Feet [154438640.00 Square Inches]
+1550 patches before subdivision
+20130 patches after subdivision
+15 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 725443, max 272
+transfer lists:   5.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(24779, 14305, 9591)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(1547, 662, 247)
+Build Patch/Sample Hash Table(s).....Done<0.0167 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 3 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                322/8192         3864/98304    ( 3.9%) 
+brushsides            2154/65536       17232/524288   ( 3.3%) 
+planes                1786/65536       35720/1310720  ( 2.7%) 
+vertexes              3042/65536       36504/786432   ( 4.6%) 
+nodes                  909/65536       29088/2097152  ( 1.4%) 
+texinfos               432/12288       31104/884736   ( 3.5%) 
+texdata                 28/2048          896/65536    ( 1.4%) 
+dispinfos              308/0           54208/0        ( 0.0%) 
+disp_verts           24948/0          498960/0        ( 0.0%) 
+disp_tris            39424/0           78848/0        ( 0.0%) 
+disp_multiblend        972/0           77760/0        ( 0.0%) 
+disp_lmsamples      967436/0          967436/0        ( 0.0%) 
+faces                 1550/65536       86800/3670016  ( 2.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1065/65536       59640/3670016  ( 1.6%) 
+facebrushes             64/0             128/0        ( 0.0%) 
+facebrushlists        1550/0            6200/0        ( 0.0%) 
+leaves                 911/65536       29152/2097152  ( 1.4%) 
+leaffaces             1568/65536        3136/131072   ( 2.4%) 
+leafbrushes           1204/65536        2408/131072   ( 1.8%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            12041/512000      48164/2048000  ( 2.4%) 
+edges                 8427/256000      33708/1024000  ( 3.3%) 
+LDR worldlights         15/8192         1500/819200   ( 0.2%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            169/32768        1690/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          5004/65536       10008/131072   ( 7.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 9/1024         3168/360448   ( 0.9%) 
+LDR lightdata         [variable]     5487576/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       26577/16777216 ( 0.2%) 
+entdata               [variable]       30252/393216   ( 7.7%) 
+LDR ambient table      911/65536        3644/262144   ( 1.4%) 
+HDR ambient table      911/65536        3644/262144   ( 1.4%) 
+LDR leaf ambient      4200/65536      117600/1835008  ( 6.4%) 
+HDR leaf ambient       911/65536       25508/1835008  ( 1.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/33368    ( 0.0%) 
+pakfile               [variable]         900/0        ( 0.0%) 
+physics               [variable]      133390/4194304  ( 3.2%) 
+physics terrain       [variable]      142466/1048576  (13.6%) 
+
+Level flags = 4
+
+Total triangle count: 4681
+Writing d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall08.bsp
+55 seconds elapsed
+
+
+
+materialPath: C:\Games\steamapps\common\dayofinfamy\doi\materials
+Loading d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall08.vmf
+Map revision 281
+Patching WVT material: maps/camp_mackall08/dev/dev_blendmeasure_wvt_patch
+Patching WVT material: maps/camp_mackall08/maps/camp_mackall/blend_soil_grass01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 72 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall08.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (132394 bytes)
+Error! To use model "models/characters/american/player_american_01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/characters/american/player_american_01.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+.Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+.Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+.Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+9.Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+.Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+.Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+10
+Compacting texture/material tables...
+Reduced 1029 texinfos to 429
+Reduced 30 texdatas to 27 (763 bytes to 624)
+Writing d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall08.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall08.bsp
+reading d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall08.prt
+ 308 portalclusters
+ 683 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 12 visible clusters (0.00%)
+Total clusters visible: 86362
+Average clusters visible: 280
+Building PAS...
+Average clusters audible: 308
+visdatasize:26573  compressed from 24640
+writing d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall08.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[6 texlights parsed from 'lights.rad']
+
+Loading d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall08.bsp
+1550 faces
+2106937 square feet [303398976.00 square inches]
+308 Displacements
+1072490 Square Feet [154438640.00 Square Inches]
+1550 patches before subdivision
+20130 patches after subdivision
+12 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 740017, max 276
+transfer lists:   5.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(24284, 13900, 9207)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(1557, 651, 235)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(181, 56, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(23, 5, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0165 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                319/8192         3828/98304    ( 3.9%) 
+brushsides            2136/65536       17088/524288   ( 3.3%) 
+planes                1786/65536       35720/1310720  ( 2.7%) 
+vertexes              3042/65536       36504/786432   ( 4.6%) 
+nodes                  909/65536       29088/2097152  ( 1.4%) 
+texinfos               429/12288       30888/884736   ( 3.5%) 
+texdata                 27/2048          864/65536    ( 1.3%) 
+dispinfos              308/0           54208/0        ( 0.0%) 
+disp_verts           24948/0          498960/0        ( 0.0%) 
+disp_tris            39424/0           78848/0        ( 0.0%) 
+disp_multiblend        972/0           77760/0        ( 0.0%) 
+disp_lmsamples      967436/0          967436/0        ( 0.0%) 
+faces                 1550/65536       86800/3670016  ( 2.4%) 
+hdr faces             1550/65536       86800/3670016  ( 2.4%) 
+origfaces             1065/65536       59640/3670016  ( 1.6%) 
+facebrushes             64/0             128/0        ( 0.0%) 
+facebrushlists        1550/0            6200/0        ( 0.0%) 
+leaves                 911/65536       29152/2097152  ( 1.4%) 
+leaffaces             1568/65536        3136/131072   ( 2.4%) 
+leafbrushes           1200/65536        2400/131072   ( 1.8%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            12065/512000      48260/2048000  ( 2.4%) 
+edges                 8439/256000      33756/1024000  ( 3.3%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights         12/8192         1200/819200   ( 0.1%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            169/32768        1690/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          5076/65536       10152/131072   ( 7.7%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 9/1024         3168/360448   ( 0.9%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     5488452/0        ( 0.0%) 
+visdata               [variable]       26573/16777216 ( 0.2%) 
+entdata               [variable]       30483/393216   ( 7.8%) 
+LDR ambient table      911/65536        3644/262144   ( 1.4%) 
+HDR ambient table      911/65536        3644/262144   ( 1.4%) 
+LDR leaf ambient       911/65536       25508/1835008  ( 1.4%) 
+HDR leaf ambient      4200/65536      117600/1835008  ( 6.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/33368    ( 0.0%) 
+pakfile               [variable]     1433392/0        ( 0.0%) 
+physics               [variable]      132394/4194304  ( 3.2%) 
+physics terrain       [variable]      142466/1048576  (13.6%) 
+
+Level flags = 6
+
+Total triangle count: 4705
+Writing d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall08.bsp
+2 minutes, 20 seconds elapsed

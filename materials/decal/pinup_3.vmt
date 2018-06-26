@@ -1,0 +1,9 @@
+"lightmappedgeneric"
+{
+	"$baseTexture" "decals/pinup_3"
+	"$decal" 1
+	"$translucent" 1
+	"$decalscale" 0.25
+	"$surfaceprop" "wood"
+	"%keywords" "ins2,doi"
+}

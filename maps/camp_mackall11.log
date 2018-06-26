@@ -1,0 +1,540 @@
+
+
+
+materialPath: C:\Games\steamapps\common\dayofinfamy\doi\materials
+Loading d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall11.vmf
+Map revision 387
+ConVarRef gpu_level doesn't point to an existing ConVar
+Patching WVT material: maps/camp_mackall11/dev/dev_blendmeasure_wvt_patch
+Patching WVT material: maps/camp_mackall11/maps/camp_mackall/blend_soil_grass01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 140 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall11.prt...Building visibility clusters...
+done (1)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (434542 bytes)
+Error! To use model "models/characters/american/player_american_01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/characters/american/player_american_01.mdl"!
+Static prop models/static_fittings/prop_beams_128_8.mdl outside the map (-1600.00, -56.00, 384.00)
+Error! prop_static using model "models/props_misc/mirror-1.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_misc/mirror-1.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+9Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+.Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+.Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+.Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+Material MAPS/CAMP_MACKALL/BLEND_SOIL_GRASS01 uses unknown detail object type mackall_grass!
+10
+Compacting texture/material tables...
+Reduced 3889 texinfos to 1528
+Reduced 91 texdatas to 82 (3100 bytes to 2774)
+Writing d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall11.bsp
+3 seconds elapsed
+
+
+
+12 threads
+reading d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall11.bsp
+reading d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall11.prt
+ 589 portalclusters
+1524 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 6461 visible clusters (0.00%)
+Total clusters visible: 324870
+Average clusters visible: 551
+Building PAS...
+Average clusters audible: 589
+visdatasize:92148  compressed from 94240
+writing d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall11.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Games\steamapps\common\dayofinfamy\doi\materials
+Loading d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall11.vmf
+Map revision 388
+ConVarRef gpu_level doesn't point to an existing ConVar
+Patching WVT material: maps/camp_mackall11/dev/dev_blendmeasure_wvt_patch
+Patching WVT material: maps/camp_mackall11/maps/camp_mackall/blend_soil_grass01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 140 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall11.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (434542 bytes)
+Error! To use model "models/characters/american/player_american_01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/characters/american/player_american_01.mdl"!
+Static prop models/static_fittings/prop_beams_128_8.mdl outside the map (-1600.00, -56.00, 384.00)
+Error! prop_static using model "models/props_misc/mirror-1.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_misc/mirror-1.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...
+Using default foliage group "foliagerenderingsystem" for grass materials that use unknown detail types.
+9...10
+Compacting texture/material tables...
+Reduced 3889 texinfos to 1528
+Reduced 91 texdatas to 82 (3100 bytes to 2774)
+Writing d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall11.bsp
+3 seconds elapsed
+
+
+
+12 threads
+reading d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall11.bsp
+reading d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall11.prt
+ 589 portalclusters
+1524 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 6461 visible clusters (0.00%)
+Total clusters visible: 324870
+Average clusters visible: 551
+Building PAS...
+Average clusters audible: 589
+visdatasize:92148  compressed from 94240
+writing d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall11.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Games\steamapps\common\dayofinfamy\doi\materials
+Loading d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall11.vmf
+Map revision 396
+ConVarRef gpu_level doesn't point to an existing ConVar
+Patching WVT material: maps/camp_mackall11/dev/dev_blendmeasure_wvt_patch
+Patching WVT material: maps/camp_mackall11/maps/camp_mackall/blend_soil_grass01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 166 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall11.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (503126 bytes)
+Error! To use model "models/characters/american/player_american_01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/characters/american/player_american_01.mdl"!
+Static prop models/static_fittings/prop_beams_128_8.mdl outside the map (-1600.00, -56.00, 384.00)
+Error! prop_static using model "models/props_misc/mirror-1.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_misc/mirror-1.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...
+Using default foliage group "foliagerenderingsystem" for grass materials that use unknown detail types.
+9...10
+Compacting texture/material tables...
+Reduced 4503 texinfos to 1819
+Reduced 105 texdatas to 96 (3440 bytes to 3114)
+Writing d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall11.bsp
+3 seconds elapsed
+
+
+
+12 threads
+reading d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall11.bsp
+reading d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall11.prt
+ 659 portalclusters
+1748 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 8664 visible clusters (0.00%)
+Total clusters visible: 407931
+Average clusters visible: 619
+Building PAS...
+Average clusters audible: 659
+visdatasize:114938  compressed from 115984
+writing d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall11.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Games\steamapps\common\dayofinfamy\doi\materials
+Loading d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall11.vmf
+Map revision 397
+ConVarRef gpu_level doesn't point to an existing ConVar
+Patching WVT material: maps/camp_mackall11/dev/dev_blendmeasure_wvt_patch
+Patching WVT material: maps/camp_mackall11/maps/camp_mackall/blend_soil_grass01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 166 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall11.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (503910 bytes)
+Error! To use model "models/characters/american/player_american_01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/characters/american/player_american_01.mdl"!
+Static prop models/static_fittings/prop_beams_128_8.mdl outside the map (-1600.00, -56.00, 384.00)
+Error! prop_static using model "models/props_misc/mirror-1.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_misc/mirror-1.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...
+Using default foliage group "foliagerenderingsystem" for grass materials that use unknown detail types.
+9...10
+Compacting texture/material tables...
+Reduced 4513 texinfos to 1820
+Reduced 106 texdatas to 97 (3464 bytes to 3138)
+Writing d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall11.bsp
+3 seconds elapsed
+
+
+
+12 threads
+reading d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall11.bsp
+reading d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall11.prt
+ 677 portalclusters
+1815 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 9719 visible clusters (0.00%)
+Total clusters visible: 429610
+Average clusters visible: 634
+Building PAS...
+Average clusters audible: 677
+visdatasize:120840  compressed from 119152
+writing d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall11.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[6 texlights parsed from 'lights.rad']
+
+Loading d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall11.bsp
+4500 faces
+2253040 square feet [324437856.00 square inches]
+322 Displacements
+1072727 Square Feet [154472704.00 Square Inches]
+4500 patches before subdivision
+47956 patches after subdivision
+27 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2939696, max 817
+transfer lists:  22.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(107210, 68666, 57248)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(12752, 7140, 5350)
+Build Patch/Sample Hash Table(s).....Done<0.0000 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  23/1024         1104/49152    ( 2.2%) 
+brushes               1272/8192        15264/98304    (15.5%) 
+brushsides            8726/65536       69808/524288   (13.3%) 
+planes                5670/65536      113400/1310720  ( 8.7%) 
+vertexes              8805/65536      105660/786432   (13.4%) 
+nodes                 1778/65536       56896/2097152  ( 2.7%) 
+texinfos              1820/12288      131040/884736   (14.8%) 
+texdata                 97/2048         3104/65536    ( 4.7%) 
+dispinfos              322/0           56672/0        ( 0.0%) 
+disp_verts           25298/0          505960/0        ( 0.0%) 
+disp_tris            39872/0           79744/0        ( 0.0%) 
+disp_multiblend        972/0           77760/0        ( 0.0%) 
+disp_lmsamples      968688/0          968688/0        ( 0.0%) 
+faces                 4500/65536      252000/3670016  ( 6.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             3469/65536      194264/3670016  ( 5.3%) 
+facebrushes            210/0             420/0        ( 0.0%) 
+facebrushlists        4500/0           18000/0        ( 0.0%) 
+leaves                1802/65536       57664/2097152  ( 2.7%) 
+leaffaces             5239/65536       10478/131072   ( 8.0%) 
+leafbrushes           2955/65536        5910/131072   ( 4.5%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            36986/512000     147944/2048000  ( 7.2%) 
+edges                25938/256000     103752/1024000  (10.1%) 
+LDR worldlights         27/8192         2700/819200   ( 0.3%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips            604/32768        6040/327680   ( 1.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         15168/65536       30336/131072   (23.1%) 
+cubemapsamples          25/1024          400/16384    ( 2.4%) 
+overlays                66/1024        23232/360448   ( 6.4%) 
+LDR lightdata         [variable]     8055704/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      120840/16777216 ( 0.7%) 
+entdata               [variable]       69642/393216   (17.7%) 
+LDR ambient table     1802/65536        7208/262144   ( 2.7%) 
+HDR ambient table     1802/65536        7208/262144   ( 2.7%) 
+LDR leaf ambient      9019/65536      252532/1835008  (13.8%) 
+HDR leaf ambient      1802/65536       50456/1835008  ( 2.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/71236    ( 0.0%) 
+pakfile               [variable]       17430/0        ( 0.0%) 
+physics               [variable]      503910/4194304  (12.0%) 
+physics terrain       [variable]      143628/1048576  (13.7%) 
+
+Level flags = 4
+
+Total triangle count: 14110
+Writing d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall11.bsp
+1 minute, 29 seconds elapsed
+
+
+
+materialPath: C:\Games\steamapps\common\dayofinfamy\doi\materials
+Loading d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall11.vmf
+Map revision 442
+ConVarRef gpu_level doesn't point to an existing ConVar
+Patching WVT material: maps/camp_mackall11/dev/dev_blendmeasure_wvt_patch
+Patching WVT material: maps/camp_mackall11/maps/camp_mackall/blend_soil_grass01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 166 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall11.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (508479 bytes)
+Error! To use model "models/characters/american/player_american_01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/characters/american/player_american_01.mdl"!
+Static prop models/static_fittings/prop_beams_128_8.mdl outside the map (-1600.00, -56.00, 384.00)
+Error! prop_static using model "models/props_misc/mirror-1.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_misc/mirror-1.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...
+Using default foliage group "foliagerenderingsystem" for grass materials that use unknown detail types.
+9...10
+Compacting texture/material tables...
+Reduced 4591 texinfos to 1846
+Reduced 112 texdatas to 102 (3791 bytes to 3414)
+Writing d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall11.bsp
+3 seconds elapsed
+
+
+
+12 threads
+reading d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall11.bsp
+reading d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall11.prt
+ 687 portalclusters
+1861 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 762 visible clusters (0.00%)
+Total clusters visible: 375795
+Average clusters visible: 547
+Building PAS...
+Average clusters audible: 686
+visdatasize:123945  compressed from 120912
+writing d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall11.bsp
+1 minute, 44 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[6 texlights parsed from 'lights.rad']
+
+Loading d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall11.bsp
+Loaded alpha texture materials\models\static_fortifications\chainlink_barbed_wire.vtf
+Loaded alpha texture materials\models\static_fortifications\chainlink_chains.vtf
+4529 faces
+2256366 square feet [324916768.00 square inches]
+329 Displacements
+1073313 Square Feet [154557120.00 Square Inches]
+4529 patches before subdivision
+48719 patches after subdivision
+27 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2720398, max 726
+transfer lists:  20.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(99267, 63684, 53013)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(12083, 6768, 5065)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(2344, 1196, 865)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(452, 202, 137)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(108, 42, 26)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(24, 8, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(6, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0000 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  23/1024         1104/49152    ( 2.2%) 
+brushes               1285/8192        15420/98304    (15.7%) 
+brushsides            8808/65536       70464/524288   (13.4%) 
+planes                5750/65536      115000/1310720  ( 8.8%) 
+vertexes              8885/65536      106620/786432   (13.6%) 
+nodes                 1790/65536       57280/2097152  ( 2.7%) 
+texinfos              1846/12288      132912/884736   (15.0%) 
+texdata                102/2048         3264/65536    ( 5.0%) 
+dispinfos              329/0           57904/0        ( 0.0%) 
+disp_verts           25417/0          508340/0        ( 0.0%) 
+disp_tris            40000/0           80000/0        ( 0.0%) 
+disp_multiblend        972/0           77760/0        ( 0.0%) 
+disp_lmsamples      973296/0          973296/0        ( 0.0%) 
+faces                 4529/65536      253624/3670016  ( 6.9%) 
+hdr faces             4529/65536      253624/3670016  ( 6.9%) 
+origfaces             3495/65536      195720/3670016  ( 5.3%) 
+facebrushes            210/0             420/0        ( 0.0%) 
+facebrushlists        4529/0           18116/0        ( 0.0%) 
+leaves                1814/65536       58048/2097152  ( 2.8%) 
+leaffaces             5245/65536       10490/131072   ( 8.0%) 
+leafbrushes           2972/65536        5944/131072   ( 4.5%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            37192/512000     148768/2048000  ( 7.3%) 
+edges                26099/256000     104396/1024000  (10.2%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights         27/8192         2700/819200   ( 0.3%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips            596/32768        5960/327680   ( 1.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         15084/65536       30168/131072   (23.0%) 
+cubemapsamples          28/1024          448/16384    ( 2.7%) 
+overlays                67/1024        23584/360448   ( 6.5%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     8122308/0        ( 0.0%) 
+visdata               [variable]      123945/16777216 ( 0.7%) 
+entdata               [variable]       72516/393216   (18.4%) 
+LDR ambient table     1814/65536        7256/262144   ( 2.8%) 
+HDR ambient table     1814/65536        7256/262144   ( 2.8%) 
+LDR leaf ambient      1814/65536       50792/1835008  ( 2.8%) 
+HDR leaf ambient      9350/65536      261800/1835008  (14.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/75120    ( 0.0%) 
+pakfile               [variable]     2969370/0        ( 0.0%) 
+physics               [variable]      508479/4194304  (12.1%) 
+physics terrain       [variable]      143915/1048576  (13.7%) 
+
+Level flags = 6
+
+Total triangle count: 14154
+Writing d:\sourceengine\dayofinfamy\mapsrc\camp_mackall\maps\camp_mackall11.bsp
+7 minutes, 36 seconds elapsed
